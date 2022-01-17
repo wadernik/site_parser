@@ -1,2 +1,5 @@
-/.vendor
-/.images
+/images/
+/vendor/
+/.idea/
+data.json
+composer.lock
